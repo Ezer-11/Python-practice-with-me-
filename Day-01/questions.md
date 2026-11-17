@@ -1,4 +1,6 @@
-# Day 1 — Basic Logic & Number Manipulation Q1. Largest of Three Numbers
+# Day 1 — Basic Logic & Number Manipulation 
+
+Q1. Largest of Three Numbers
 
 * Take three integers as input.
 * Find and print the largest number.
