@@ -15,4 +15,9 @@ elif(b>=c and b> a):
 else:
     print(f"{c} is the largest")
 
-#*learning python reads the code from top to bottom if the one condition satisfies it will stop.
+
+#* If if is True → execute the if block and skip the elif and else blocks.
+
+#* If if is False → check the elif condition.
+
+#* if both are False → check else, if present.
