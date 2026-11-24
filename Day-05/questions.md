@@ -146,7 +146,7 @@ Output\:
 
 ```text
 5
-```S
+```
 
 **Requirements\:**
 
