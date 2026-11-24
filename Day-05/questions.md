@@ -30,7 +30,6 @@ Special characters: 1
 #
 ### 2\. Print a number triangle
 
-(Beginner)
 
 Take an integer `n` and print the following pattern.
 
@@ -81,7 +80,6 @@ Take two integer lists and print their common distinct elements in the order the
 #
 ### 4\. Check whether a list is a palindrome
 
-(Medium)
 
 A list is a palindrome if it reads the same forward and backward.
 
@@ -121,7 +119,6 @@ Not Palindrome
 #
 ### 5\. Find the GCD using a function
 
-(Medium challenge)
 
 Write a function called `gcd(a, b)` that returns the greatest common divisor of two non-negative integers.
 
@@ -149,7 +146,7 @@ Output\:
 
 ```text
 5
-```
+```S
 
 **Requirements\:**
 
