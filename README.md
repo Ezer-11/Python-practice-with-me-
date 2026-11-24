@@ -1,28 +1,79 @@
-# Python Practice With Me
+# 🐍 Python Practice With Me
 
-Daily Python logic practice, one question set at a time. Each day builds on core topics such as conditions, loops, strings, lists, dictionaries, functions, and problem solving.
+**Build your Python problem-solving skills one day at a time.**
 
-## Daily question sets
+A 14-day practice track with **70 questions** covering number logic, conditions, loops, strings, lists, dictionaries, functions, matrices, and searching. Try each problem first, then use the solutions when you need a reference.
 
-| Day | Questions |
-|---:|:---|
-| 01 | [Day 1 questions](Day-01/questions.md) |
-| 02 | [Day 2 questions](Day-02/questions.md) |
-| 03 | [Day 3 questions](Day-03/questions.md) |
-| 04 | [Day 4 questions](Day-04/questions.md) |
-| 05 | [Day 5 questions](Day-05/questions.md) |
-| 06 | [Day 6 questions](Day-06/questions.md) |
-| 07 | [Day 7 questions](Day-07/questions.md) |
-| 08 | [Day 8 questions](Day-08/questions.md) |
-| 09 | [Day 9 questions](Day-09/questions.md) |
-| 10 | [Day 10 questions](Day-10/questions.md) |
-| 11 | [Day 11 questions](Day-11/questions.md) |
-| 12 | [Day 12 questions](Day-12/questions.md) |
-| 13 | [Day 13 questions](Day-13/questions.md) |
-| 14 | [Day 14 questions](Day-14/questions.md) |
+## Start practicing
 
-## Repository layout
+| Days | Learning path | Questions |
+|:---:|---|:---:|
+| **01–04** | Core logic, conditions, loops, lists, and dictionaries | [Open Days 1–4](#daily-challenge-map) |
+| **05–10** | Strings, collections, patterns, matrices, and sorting | [Open Days 5–10](#daily-challenge-map) |
+| **11–14** | Search, recursion, and multi-step problem solving | [Open Days 11–14](#daily-challenge-map) |
 
-Each day has a `questions.md` file. Solution files are kept in that day's `solutions/` folder where available.
+## Daily challenge map
 
-Try each problem before checking a solution. Keep each commit focused on a clear change, such as adding a day's questions or a specific solution.
+<details>
+<summary><strong>Days 1–4 · Foundations</strong></summary>
+
+| Day | Focus | Questions |
+|:---:|---|:---:|
+| 01 | Basic logic and number manipulation | [5 questions](Day-01/questions.md) |
+| 02 | Lists, strings, and logical conditions | [5 questions](Day-02/questions.md) |
+| 03 | Indexing, iteration, and problem solving | [5 questions](Day-03/questions.md) |
+| 04 | Loops, lists, dictionaries, and prime numbers | [5 questions](Day-04/questions.md) |
+
+</details>
+
+<details>
+<summary><strong>Days 5–10 · Core problem-solving patterns</strong></summary>
+
+| Day | Focus | Questions |
+|:---:|---|:---:|
+| 05 | Character counting, patterns, lists, and GCD | [5 questions](Day-05/questions.md) |
+| 06 | Number digits, searching, and merging lists | [5 questions](Day-06/questions.md) |
+| 07 | Functions, strings, dictionaries, and matrices | [5 questions](Day-07/questions.md) |
+| 08 | Lists, strings, and matrix operations | [5 questions](Day-08/questions.md) |
+| 09 | Number properties, patterns, and frequency | [5 questions](Day-09/questions.md) |
+| 10 | Number properties, strings, lists, and sorting | [5 questions](Day-10/questions.md) |
+
+</details>
+
+<details>
+<summary><strong>Days 11–14 · Stretch challenges</strong></summary>
+
+| Day | Focus | Questions |
+|:---:|---|:---:|
+| 11 | Number properties, grouping, and binary search | [5 questions](Day-11/questions.md) |
+| 12 | Billing, strings, dictionaries, and recursion | [5 questions](Day-12/questions.md) |
+| 13 | Binary conversion, validation, and matrices | [5 questions](Day-13/questions.md) |
+| 14 | Functions, lists, anagrams, and Roman numerals | [5 questions](Day-14/questions.md) |
+
+</details>
+
+## How to use this repo
+
+1. Pick a day and read its `questions.md`.
+2. Solve each problem in your own Python file.
+3. Test normal cases and edge cases.
+4. Check a solution when you are ready, then note what you learned.
+
+## Folder structure
+
+```text
+Day-01/
+├── questions.md
+└── solutions/
+    ├── Q1.py
+    └── Q2.py
+```
+
+Every day follows the same `Day-NN/questions.md` naming pattern. Solution files use `solutions/QN.py`.
+
+## Progress
+
+- [x] Question sets for Days 1–14
+- [ ] Solutions are being filled in
+
+Solutions are available for Days 1–4. The solution files under Days 5–10 are empty placeholders, and Days 11–14 do not have solution files yet.
