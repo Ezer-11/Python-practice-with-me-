@@ -7,7 +7,8 @@ Main focus: List indexing, adjacent elements, nested logic, and building problem
 Q1. Find the first occurrence index
 
 * Given a list and a target number, find the index of its first occurrence.
-* numbers = [10, 20, 30, 20, 40]target = 20
+* numbers = [10, 20, 30, 20, 40]
+* target = 20
 
 
 
@@ -53,7 +54,8 @@ Rules:
 Q4. Check whether two strings are anagrams
 
 * Two strings are anagrams if they contain exactly the same characters with the same frequencies, but in a different order.
-word1 = "listen"word2 = "silent"
+word1 = "listen"
+word2 = "silent"
 
 Expected output:
 True
