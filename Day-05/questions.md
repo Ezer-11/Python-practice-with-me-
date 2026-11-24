@@ -27,10 +27,10 @@ Digits: 3
 Special characters: 1
 ```
 
-**Constraint\:** The string can contain letters, digits, spaces and punctuation.
-
+#
 ### 2\. Print a number triangle
 
+(Beginner)
 
 Take an integer `n` and print the following pattern.
 
@@ -51,9 +51,10 @@ Take an integer `n` and print the following pattern.
 ```
 
 **Requirement\:** Use nested loops. Do not print each row manually.
-
+#
 ### 3\. Find common elements in two lists
 
+(Medium)
 
 Take two integer lists and print their common distinct elements in the order they first appear in the first list.
 
@@ -77,9 +78,10 @@ Take two integer lists and print their common distinct elements in the order the
 - Do not use set intersection.
 - Do not print duplicate common elements.
 - Preserve the order from the first list.
-
+#
 ### 4\. Check whether a list is a palindrome
 
+(Medium)
 
 A list is a palindrome if it reads the same forward and backward.
 
@@ -116,7 +118,7 @@ Not Palindrome
 - Do not use `reverse()`\.
 - Do not use slicing (`[::-1]`\).
 - Try comparing elements using indexes from both ends.
-
+#
 ### 5\. Find the GCD using a function
 
 (Medium challenge)
@@ -156,4 +158,5 @@ Output\:
 - Try solving it using the Euclidean algorithm.
 - Handle the case where one number is zero, provided the other is positive.
 
+**Constraint\:** `0 ≤ a, b ≤ 10^9`, with at least one number positive.
 
