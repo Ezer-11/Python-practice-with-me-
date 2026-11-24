@@ -38,7 +38,6 @@ Requirement:
 #
 
 Q3. ROTATE A LIST TO THE RIGHT BY ONE POSITION
-Difficulty: Beginner–Intermediate
 
 * Take a list of integers and move its last element to the first position.
 * Every other element should shift one position to the right.
@@ -56,9 +55,8 @@ Requirement:
 
 #
 Q4. FIND THE FREQUENCY OF EVERY ELEMENT
-Difficulty: Medium
 
-* ake a list of integers and count how many times each distinct number occurs.
+* Make a list of integers and count how many times each distinct number occurs.
 
 * Input:
 8
@@ -76,7 +74,6 @@ Requirement:
 
 #
 Q5. FIND ALL PRIME NUMBERS IN A RANGE
-Difficulty: Medium Challenge
 
 * Take two integers L and R.
 * Print all prime numbers between them, including the boundaries if they are prime.
